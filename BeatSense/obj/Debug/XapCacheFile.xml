@@ -1,0 +1,26 @@
+﻿<xapCache source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Bin\Debug\BeatSense_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="8/17/2013 12:01:34 PM">
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\obj\Debug\BeatSense.dll" archivePath="BeatSense.dll" lastWriteTime="8/17/2013 12:01:33 PM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="8/16/2013 8:21:10 PM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="8/16/2013 8:21:10 PM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="8/16/2013 8:21:10 PM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="8/16/2013 8:21:10 PM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="8/16/2013 8:21:10 PM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Resources\audio\bass.wav" archivePath="Resources\audio\bass.wav" lastWriteTime="8/1/2007 9:20:18 AM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Resources\audio\crash.wav" archivePath="Resources\audio\crash.wav" lastWriteTime="8/1/2007 9:08:16 AM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Resources\audio\hihat.wav" archivePath="Resources\audio\hihat.wav" lastWriteTime="8/1/2007 9:20:26 AM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Resources\audio\ride.wav" archivePath="Resources\audio\ride.wav" lastWriteTime="8/1/2007 9:06:36 AM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Resources\audio\snare.wav" archivePath="Resources\audio\snare.wav" lastWriteTime="8/1/2007 9:20:24 AM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Resources\audio\tom.wav" archivePath="Resources\audio\tom.wav" lastWriteTime="8/1/2007 9:02:08 AM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Resources\help.png" archivePath="Resources\help.png" lastWriteTime="8/17/2013 11:37:51 AM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Resources\icon.png" archivePath="Resources\icon.png" lastWriteTime="8/16/2013 9:03:46 PM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Resources\info.html" archivePath="Resources\info.html" lastWriteTime="8/17/2013 11:56:26 AM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Resources\info.png" archivePath="Resources\info.png" lastWriteTime="8/16/2013 10:16:16 PM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Resources\pause.png" archivePath="Resources\pause.png" lastWriteTime="8/16/2013 8:12:37 PM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Resources\play.png" archivePath="Resources\play.png" lastWriteTime="8/16/2013 8:12:17 PM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Resources\stop.png" archivePath="Resources\stop.png" lastWriteTime="8/16/2013 8:12:50 PM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Resources\trash.png" archivePath="Resources\trash.png" lastWriteTime="8/16/2013 10:13:24 PM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="8/16/2013 8:21:18 PM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="8/16/2013 8:21:10 PM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="8/16/2013 8:21:10 PM" />
+  <file source="C:\Users\User\documents\visual studio 2012\Projects\BeatSense\BeatSense\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="8/16/2013 11:42:41 PM" />
+</xapCache>
